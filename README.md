@@ -9,6 +9,4 @@
 - 🌱 I’m currently learning WebApps, Object oriented Programming
 - 💬 Ask me about Git Hub
 - 😄 Pronouns: He/Him
-- <!--
-- ⚡ Fun fact: I crack jokes, the result is smiling faces.
--->
+
